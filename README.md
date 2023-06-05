@@ -1,4 +1,5 @@
-### Hi there 👋
+### Привет👋, меня зовут Сухоруков Кирилл!
+
 
 <!--
 **K1rsN7/K1rsN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
