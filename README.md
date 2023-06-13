@@ -64,6 +64,8 @@
   
 <a href="https://numpy.org/" target="_blank"> <img align="left" alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a> 
   
+  <a href="https://scikit-learn.org/stable/" target="_blank"> <img align="left" alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a> 
+  
 <a href="https://pytorch.org/" target="_blank"> <img align="left" alt="pytorch" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
   
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>  
