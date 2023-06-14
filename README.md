@@ -76,4 +76,6 @@
   ---
   ### 📊 Статистика: 
   
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K1rsN7&theme=react)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1rsN7&theme=react)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1rsN7&theme=react)
