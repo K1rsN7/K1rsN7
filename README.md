@@ -20,7 +20,7 @@
 - 👨‍🎓 &nbsp; Учусь в колледже на специальности программиста.
 - 🎟️ &nbsp; Активно участвую в IT мероприятиях.
 - 🏋️‍♂️ &nbsp; Активно занимаюсь спортом.
-- 👨‍🏫 &nbsp; Делюсь смоими знаниями.
+- 👨‍🏫 &nbsp; Делюсь своими знаниями.
 
 <br>
 <br>
@@ -69,3 +69,11 @@
 <a href="https://pytorch.org/" target="_blank"> <img align="left" alt="pytorch" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
   
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>  
+  
+  <br>
+  <br>
+  
+  ---
+  ### 📊 Статистика: 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1rsN7&theme=react)
