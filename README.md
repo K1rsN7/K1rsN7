@@ -6,7 +6,7 @@
  
 </div>
 
-<img align="right" alt="GIF" src="./Image//ai-gif.gif" width="360px"/>
+<img align="right" alt="GIF" src="./Image//ai.gif" width="360px"/>
 
 ### <img alt="GIF" src="./Image//paper.gif" width="20px" />  Немного поподробнее:
 
