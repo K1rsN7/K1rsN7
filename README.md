@@ -1,44 +1,26 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=5acbe9&center=true&vCenter=true&width=500&height=27&lines=+++++++%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC+%F0%9F%91%8B+!;++++%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB+.+.+.;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=006AFF&center=true&vCenter=true&width=500&height=27&lines=+++++++%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC+%F0%9F%91%8B+!;++++%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB+.+.+.;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F+!" alt="Typing SVG" /></a>
 
   
-<<<<<<< HEAD
-## <img alt="GIF" src="./Developer.gif" width="25px" /> Коротко обо мне :
-Я начинающий Data Scientist <img src="./cat-coder.gif" width="30px"> из Нижнего Новгорода.
+## <img alt="GIF" src="./Image//Developer.gif" width="25px" /> Коротко обо мне :
+Я начинающий Data Scientist <img src="./Image//cat-coder.gif" width="30px"> из Нижнего Новгорода.
  
 </div>
 
-<img align="right" alt="GIF" src="./ai-gif.gif" width="360px"/>
+<img align="right" alt="GIF" src="./Image//ai-gif.gif" width="360px"/>
 
-### <img alt="GIF" src="./paper.gif" width="20px" />  Немного поподробнее:
+### <img alt="GIF" src="./Image//paper.gif" width="20px" />  Немного поподробнее:
 
 - <img alt="GIF" src="./books.gif" width="20px" />&nbsp; Учусь в колледже на специальности программиста.
-- <img alt="GIF" src="./laptop.gif" width="25px" />  Активно участвую в IT мероприятиях.
-- <img alt="GIF" src="./basketball.gif" width="25px" /> Активно занимаюсь спортом.
-- <img alt="GIF" src="./learninig.gif" width="25px" /> Делюсь своими знаниями.
-=======
-## <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/Developer.gif" width="25px" /> Коротко обо мне :
-Я начинающий Data Scientist <img src="https://github.com/K1rsN7/K1rsN7/blob/main/cat-coder.gif" width="30px"> из Нижнего Новгорода.</a>
- 
-</div>
+- <img alt="GIF" src="./Image//laptop.gif" width="25px" />  Активно участвую в IT мероприятиях.
+- <img alt="GIF" src="./Image//basketball.gif" width="25px" /> Активно занимаюсь спортом.
+- <img alt="GIF" src="./Image//learninig.gif" width="25px" /> Делюсь своими знаниями.
 
- <a href="https://github.com/K1rsN7/K1rsN7"><img align="right" alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/ai-gif.gif" width="360px"/></a>
->>>>>>> 12e90cb7471ce490f88e5796404ba28e7cbac216
-
-### <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/paper.gif" width="20px" />  Немного поподробнее:</a>
-- <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/books.gif" width="20px" />&nbsp; Учусь в колледже на специальности программиста.</a>
-- <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/laptop.gif" width="25px" />  Активно участвую в IT мероприятиях.</a>
-- <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/basketball.gif" width="25px" /> Активно занимаюсь спортом.</a>
-- <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/learninig.gif" width="25px" /> Делюсь своими знаниями.</a>
 <br>
 <br>
 
 
-<<<<<<< HEAD
-## <img alt="GIF" src="./handshake2.gif" width="25px"> Социальные сети:
-=======
-## <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/handshake2.gif" width="25px"> Социальные сети:</a>
->>>>>>> 12e90cb7471ce490f88e5796404ba28e7cbac216
+## <img alt="GIF" src="./Image//handshake2.gif" width="25px"> Социальные сети:
 
 <div id="badges">
     <a href="https://t.me/K1rsN7" target="_blank">
@@ -54,11 +36,7 @@
   
   <br>
   
-<<<<<<< HEAD
-  ##  <img alt="GIF" src="./laptop_code.gif" width="25px"> Языки и инструменты:
-=======
-  ## <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/laptop_code.gif" width="25px"> Языки и инструменты:<a/>
->>>>>>> 12e90cb7471ce490f88e5796404ba28e7cbac216
+  ##  <img alt="GIF" src="./Image//laptop_code.gif" width="25px"> Языки и инструменты:
   
 <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   
@@ -83,17 +61,8 @@
   <br>
   <br>
   
-<<<<<<< HEAD
-  ## <img alt="GIF" src="./statistics.gif" width="25px"> Статистика: 
-=======
-  ## <a><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/statistics.gif" width="25px"> Статистика:</a>
-
-  <div align="center">
-  <a href="https://github.com/K1rsN7/K1rsN7"><img src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=Статистика⠀GitHub" height="192px"/></a>
-  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&custom_title=Используемы⠀Языки" height="192px"/></a>
->>>>>>> 12e90cb7471ce490f88e5796404ba28e7cbac216
+  ## <img alt="GIF" src="./Image//statistics.gif" width="25px"> Статистика: 
   
-  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=График⠀Активности" /></a>
-  </div>
-
- 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1rsN7&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K1rsN7&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1rsN7&theme=transparent)
