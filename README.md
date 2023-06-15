@@ -1,6 +1,5 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=006AFF&center=true&vCenter=true&width=500&height=27&lines=+++++++%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC+%F0%9F%91%8B+!;++++%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB+.+.+.;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F+!" alt="Typing SVG" /></a>
-
   
 ## <img alt="GIF" src="./Image//Developer.gif" width="25px" /> Коротко обо мне :
 Я начинающий Data Scientist <img src="./Image//cat-coder.gif" width="30px"> из Нижнего Новгорода.
@@ -11,7 +10,7 @@
 
 ### <img alt="GIF" src="./Image//paper.gif" width="20px" />  Немного поподробнее:
 
-- <img alt="GIF" src="./books.gif" width="20px" />&nbsp; Учусь в колледже на специальности программиста.
+- <img alt="GIF" src="./Image/books.gif" width="20px" />&nbsp; Учусь в колледже на специальности программиста.
 - <img alt="GIF" src="./Image//laptop.gif" width="25px" />  Активно участвую в IT мероприятиях.
 - <img alt="GIF" src="./Image//basketball.gif" width="25px" /> Активно занимаюсь спортом.
 - <img alt="GIF" src="./Image//learninig.gif" width="25px" /> Делюсь своими знаниями.
