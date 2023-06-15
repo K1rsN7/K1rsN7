@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=006AFF&center=true&vCenter=true&width=500&height=27&lines=+++++++%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC+%F0%9F%91%8B+!;++++%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB+.+.+.;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=5acbe9&center=true&vCenter=true&width=500&height=27&lines=+++++++%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC+%F0%9F%91%8B+!;++++%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB+.+.+.;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F+!" alt="Typing SVG" /></a>
   
 ## <img alt="GIF" src="./Image//Developer.gif" width="25px" /> Коротко обо мне :
 Я начинающий Data Scientist <img src="./Image//cat-coder.gif" width="30px"> из Нижнего Новгорода.
@@ -61,7 +61,7 @@
   <br>
   
   ## <img alt="GIF" src="./Image//statistics.gif" width="25px"> Статистика: 
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1rsN7&theme=transparent)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K1rsN7&theme=transparent)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1rsN7&theme=transparent)
+ <div align="center">
+  <a href="https://github.com/K1rsN7/K1rsN7"><img src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=Статистика⠀GitHub" height="192px"/></a>
+  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&custom_title=Используемы⠀Языки" height="192px"/></a>
+  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=График⠀Активности" /></a>
