@@ -32,6 +32,7 @@
   </div
   
   <br>
+  <br>
   
   <h2>  <img alt="GIF" src="./Image//laptop_code.gif" width="25px"> Languages and Tools: </h2>
   
@@ -55,6 +56,7 @@
   
   <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>  
   
+  <br>
   <br>
   <br>
   
