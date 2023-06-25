@@ -81,4 +81,8 @@
   <div align="center">
   <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=5ACBE9&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=footer"/>
