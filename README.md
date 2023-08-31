@@ -39,19 +39,22 @@
 <details open>
 <summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px"> Languages and Tools </h2></summary>
 <div align="center">
-<p></p> 
-<a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-<a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-<a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
-<a href="https://numpy.org/" target="_blank"> <img alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a> 
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a> 
-<a href="https://pytorch.org/" target="_blank"> <img alt="pytorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
-<a href="https://git-scm.com/" target="_blank"> <img alt="git" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<br>
-<p> </p>
+    <p></p> 
+        <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+        <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+        <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
+        <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+        <a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
+        <a href="https://numpy.org/" target="_blank"> <img alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a> 
+        <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a> 
+        <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
+        <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+        <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+        <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
+        <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
+    <br>
+    <p> </p>
 </div>
 </details>
 <details open>
