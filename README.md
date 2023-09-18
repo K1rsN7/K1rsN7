@@ -5,17 +5,17 @@
 <br>
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-<p align="center"> I am a novice Data Scientist <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
+<p align="center"> I am a novice ML Engineer <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
 
 
 <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
 
 <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
 
-- <h5><img alt="GIF" src="./Image/books.gif" width="30px" />&nbsp; I am a college student majoring in programming.</h5>
+- <h5><img alt="GIF" src="./Image/books.gif" width="30px" />&nbsp; I am a college student, studying to be a programmer.</h5>
 - <h5><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</h5>
 - <h5><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</h5>
-- <h5><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; Sharing my knowledge.</h5>
+- <h5><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</h5>
 <br>
 </details>
 <details open>
