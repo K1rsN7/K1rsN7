@@ -1,21 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=5ACBE9&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=5ACBE9&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill" alt="Typing SVG" /></a>
 </div> 
 <br>
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-<p align="center"> I am a novice ML Engineer <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
-
-
-<img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
-
-<h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
-
-- <h5><img alt="GIF" src="./Image/books.gif" width="30px" />&nbsp; I am a college student, studying to be a programmer.</h5>
-- <h5><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</h5>
-- <h5><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</h5>
-- <h5><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</h5>
+    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I am a novice ML Engineer <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
+    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <ul>
+        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a programmer.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
+    </ul>
 <br>
 </details>
 <details open>
@@ -74,7 +72,7 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-      <img height="192px" alt="K1rsN7's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+      <img height="300px" alt="K1rsN7's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
     <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
