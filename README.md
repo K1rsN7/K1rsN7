@@ -58,14 +58,15 @@
 <details open>
 <summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
   <div align="center">
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_7.png" target="_blank"> <img height ="150px"  src="./Image/diploma_7.png" /></a>
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_6.png" target="_blank"> <img height ="150px"  src="./Image/diploma_6.png" /></a>
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.png" /></a>
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma_4.png" /></a>
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_3.png" target="_blank"> <img height ="150px"  src="./Image/diploma_3.png" /></a>
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_2.png" target="_blank"> <img height ="150px"  src="./Image/diploma_2.png" /></a>
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_1.png" target="_blank"> <img height ="150px"  src="./Image/diploma_1.png" /></a>
-    <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_0.png" target="_blank"> <img height ="150px"  src="./Image/diploma_0.png" /></a
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_8.png" target="_blank"> <img height ="150px"  src="./Image/diploma_8.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_7.png" target="_blank"> <img height ="150px"  src="./Image/diploma_7.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_6.png" target="_blank"> <img height ="150px"  src="./Image/diploma_6.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma_4.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_3.png" target="_blank"> <img height ="150px"  src="./Image/diploma_3.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_2.png" target="_blank"> <img height ="150px"  src="./Image/diploma_2.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_1.png" target="_blank"> <img height ="150px"  src="./Image/diploma_1.png" /></a>
+        <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_0.png" target="_blank"> <img height ="150px"  src="./Image/diploma_0.png" /></a>
   </div>
     <br>
 </details>
