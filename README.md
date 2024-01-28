@@ -50,9 +50,10 @@
         <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
         <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
         <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
-        <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
+        <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" /></a>
+        <a href="https://docs.ultralytics.com/" target="_blank"> <img alt="YOLO" height="42px"  src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" /></a>
     <br>
-    <p> </p>
+    <p></p>
 </div>
 </details>
 <details open>
