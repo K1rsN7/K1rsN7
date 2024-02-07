@@ -52,6 +52,7 @@
         <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
         <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" /></a>
         <a href="https://docs.ultralytics.com/" target="_blank"> <img alt="YOLO" height="42px"  src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" /></a>
+        <a href="https://catboost.ai/" target="_blank"> <img alt="YOLO" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" /></a>
     <br>
     <p></p>
 </div>
@@ -78,7 +79,7 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-      <img height="300px" alt="K1rsN7's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<!--     <img height="300px" alt="K1rsN7's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br> -->
     <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
