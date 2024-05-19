@@ -64,6 +64,7 @@
 <details open>
 <summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
   <div align="center">
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_16.png" target="_blank"> <img height ="150px"  src="./Image/diploma_16.png" /></a>
       <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_15.png" target="_blank"> <img height ="150px"  src="./Image/diploma_15.png" /></a>
       <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_14.png" target="_blank"> <img height ="150px"  src="./Image/diploma_14.png" /></a>
       <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_13.png" target="_blank"> <img height ="150px"  src="./Image/diploma_13.png" /></a>
