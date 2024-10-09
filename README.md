@@ -35,28 +35,46 @@
 <br>
 </details>  
 <details open>
-<summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px"> Languages and Tools </h2></summary>
+    <summary align="center"><h2><img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px"> Favorite languages and Tools </h2></summary>
 <div align="center">
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-    <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
     <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
-    <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
     <a href="https://numpy.org/" target="_blank"> <img alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
     <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a> 
     <a href="https://seaborn.pydata.org/#" target="_blank"> <img alt="seaborn" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" /></a> 
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a> 
-    <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>  
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-    <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
     <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" /></a>
+    <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
     <a href="https://docs.ultralytics.com/" target="_blank"> <img alt="YOLO" height="42px"  src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" /></a>
     <a href="https://catboost.ai/" target="_blank"> <img alt="CatBoost" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" /></a>
+     <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+    <a href="https://archlinux.org/" target="_blank"> <img alt="Arch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
+       
+</div>
+</details>
+<details>
+<summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px">Other Languages and Tools </h2></summary>
+<div align="center">
+    <p></p> 
+    <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+    <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+    <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
-    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="HTML" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
+    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
+    <a href="https://unity.com/" target="_blank"> <img alt="Unity" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
+    <a href="https://www.blender.org/" target="_blank"> <img alt="Blender" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /></a>
+    <a href="https://www.php.net/" target="_blank"> <img alt="PHP" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
+    <a href="https://developer.android.com/studio" target="_blank"> <img alt="Android Studio" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" /></a>
+    <a href="https://ubuntu.com/" target="_blank"> <img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
     <br>
     <p></p>
 </div>
@@ -90,13 +108,13 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-<!--     <img height="300px" alt="K1rsN7's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br> -->
     <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
   <div align="center">
   <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
+  <figure><embed src="https://wakatime.com/share/@K1rsN7/106fb23c-f2e4-4ac4-b789-c2c870124cf1.svg"></embed></figure>
 
 <div align="center">
 <br>
