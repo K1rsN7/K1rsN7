@@ -110,11 +110,12 @@
   <div align="center">
     <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+      <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/>
   </div>
   <div align="center">
   <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@K1rsN7/1d97283e-b952-4189-926f-10d29c178b19.svg">
   </div>
-  <figure><embed src="https://wakatime.com/share/@K1rsN7/106fb23c-f2e4-4ac4-b789-c2c870124cf1.svg"></embed></figure>
 
 <div align="center">
 <br>
